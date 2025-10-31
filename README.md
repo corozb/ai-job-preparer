@@ -19,6 +19,11 @@ bun dev
 - [Clerk](https://clerk.com/docs/nextjs/getting-started/quickstart): for login
 - [Arcjet](https://docs.arcjet.com/get-started?f=next-js): security Bot detection. Rate limiting. Email validation. Attack protection. Data redaction.
 - @t3-oss/env-nextjs: Env variables types
+- [Shadcn](https://ui.shadcn.com/docs/installation/next)
+            npx shadcn@latest add button dropdown-menu
+- [tweackcn](https://tweakcn.com/): To customize shadcn theme
+
+      npx shadcn@latest add https://tweakcn.com/r/themes/cmdhthpvq000104jsbno5e4ox
 
 ## Deploy on Vercel
 
